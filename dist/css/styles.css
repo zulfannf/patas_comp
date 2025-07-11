@@ -840,6 +840,14 @@
         grid-auto-columns: calc((100% / 2) - 9px);
     }
 
+    .projects .title h1 {
+        font-size: 25px;
+    }
+
+    /* todo join  */
+    .join .title h1 {
+        font-size: 25px;
+    }
     
 }
 
@@ -988,6 +996,41 @@
     }
 
     .division .division-box .programming-box .box p {
+        font-size: 14px;
+    }
+
+    /* todo project  */
+
+    .projects .title h1 {
+        font-size: 20px;
+    }
+
+    .projects .title p {
+        font-size: 14px;
+    }
+
+    .projects .projects-box .carousel .card h3 {
+        font-size: 16px;
+    }
+
+    .projects .projects-box .carousel .card .info {
+        font-size: 12px;
+    }
+
+    .projects .projects-box .carousel .card .description {
+        font-size: 14px;
+    }
+
+    /* todo join  */
+    .join .title h1 {
+        font-size: 20px;
+    }
+
+    .join .title p {
+        font-size: 14px;
+    }
+
+    .join .join-box .box:nth-child(2) a {
         font-size: 14px;
     }
 
